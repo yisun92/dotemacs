@@ -1,1 +1,1 @@
-# dotemacs
+# Emacs configurations
